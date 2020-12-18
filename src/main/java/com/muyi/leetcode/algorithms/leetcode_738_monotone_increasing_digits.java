@@ -1,8 +1,5 @@
 package com.muyi.leetcode.algorithms;
 
-import java.util.ArrayList;
-import java.util.List;
-
 /**
  * @Author: muyi
  * @Date: 2020/12/15 12:26
